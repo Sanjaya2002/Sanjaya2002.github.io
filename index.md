@@ -7,7 +7,7 @@ description: Computer Science Student | Rugby Player | Hard Worker
 # Hello, I'm Sanjaya Weerakoon 👋
 
 I'm a **hardworking Computer Science student** with a passion for coding, problem-solving, and teamwork — both on and off the rugby field.  
-When I'm not building software, you can find me strategizing plays on the pitch or exploring new technologies.
+When I'm not building software, you can find me strategizing plays on the pitch or exploring new technologies.<br><br>
 <center><img src = "me.jpg" width="300px" height ="300px"></center>
 
 ---
