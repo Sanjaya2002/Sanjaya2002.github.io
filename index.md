@@ -18,11 +18,13 @@ When I'm not building software, you can find me strategizing plays on the pitch 
 - Tools: **Git, GitHub, VS Code**
 
 ---
+
 ## 🧑‍🎓 Education
 
 - **Primary Education:** Dekatana Primary School.
 - **Secondary Education:** Ananda College, Colombo 10.
 - **Higher Studies:** University of Sri Jayawardenepura(Undergraduate)
+
 ---
 
 ## 🏆 Projects
