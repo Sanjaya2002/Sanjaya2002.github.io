@@ -29,11 +29,43 @@ When I'm not building software, you can find me strategizing plays on the pitch 
 
 ## 🏆 Projects
 
-### 📌 Project 1: Personal Portfolio Website
-A responsive personal website to showcase my projects, education, and passion for technology.
+### 🚦 Fine Management System (Traffic Fine Collection App)
 
-### 📌 Project 2: Student Management System
-A desktop application to manage student data efficiently using Java and MySQL.
+Tech Stack: React | HTML | PHP | MySQL
+
+**Project Overview:**
+
+Designed and developed a Fine Management System to streamline the process of recording and collecting traffic fines. The system enables traffic officers to log fines efficiently, allows users to view and pay fines online, and provides administrative tools for managing records.
+
+**Key Features:**
+
+- User Interface: Built a dynamic, responsive front-end using React and HTML5.
+
+- Database Management: Integrated a secure MySQL database to store user and fine data.
+
+- Backend Development: Developed backend services using PHP to handle server-side operations, including fine creation, user verification, and payment processing.
+
+- Authentication: Implemented a secure login system for administrators and officers.
+
+- Payment Module: Integrated an online payment gateway for fine settlements (if applicable).
+
+- Reporting: Created dashboards to view and generate reports on fines collected, pending, and paid.
+
+**Challenges Solved:**
+
+- Ensured real-time updates of records between frontend and database.
+
+- Built a secure system to protect sensitive user data.
+
+- Designed a user-friendly interface even for non-technical users.
+
+**Outcome:**
+
+- Reduced manual paperwork.
+
+- Made fine collection faster, transparent, and more efficient.
+
+- Improved user satisfaction by allowing online fine payments.
 
 ---
 
