@@ -8,7 +8,7 @@ description: Computer Science Student | Rugby Player | Hard Worker
 
 I'm a **hardworking Computer Science student** with a passion for coding, problem-solving, and teamwork — both on and off the rugby field.  
 When I'm not building software, you can find me strategizing plays on the pitch or exploring new technologies.
-<img src = "me.jpg" width="300px" height ="300px">
+<img src = "me.jpg" width="300px" height ="300px" style="text-align:center">
 
 ---
 
