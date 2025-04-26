@@ -2,7 +2,7 @@
 layout: default
 title: Sanjaya Weerakoon's Portfolio
 description: Computer Science Student | Rugby Player | Hard Worker
-theme: jekyll-theme-cayman
+
 
 ---
 
