@@ -13,10 +13,14 @@ When I'm not building software, you can find me strategizing plays on the pitch 
 ---
 
 ## 🛠️ Skills
-- Programming Languages: **Python, Java, C++**
+- Programming Languages: **Java, C++**
 - Web Development: **HTML, CSS, JavaScript**
 - Tools: **Git, GitHub, VS Code**
 
+---
+## 🧑‍🎓 Education
+
+- **Primary Education: ** Dekatana Primary School.
 ---
 
 ## 🏆 Projects
